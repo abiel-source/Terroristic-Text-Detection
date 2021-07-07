@@ -1,0 +1,92 @@
+move
+journey
+walk
+float
+trip
+cruise
+ride
+fall
+creep
+motion
+movement
+swim
+step
+drift
+come
+wander
+jaunt
+traveling
+automobile
+fly
+go
+travelling
+locomote
+locomotion
+change of location
+tourist
+tourism
+commuting
+move around
+wayfaring
+spread
+rise
+ascension
+crawl
+roll
+stray
+run
+circle
+peregrination
+caravan
+circumnavigation
+go up
+come up
+traversal
+follow
+entering
+roam
+slither
+go around
+get around
+trundle
+prance
+taxi
+progression
+traverse
+vacation
+pilgrimage
+raft
+wend
+walking
+air travel
+water travel
+train
+airplane
+trips
+travelers
+destinations
+flights
+routes
+leave
+stay
+arrive
+airline
+spend
+international
+visa
+passport
+autobiography
+people
+location
+pedestrian
+bicycle
+traveler
+itinerant
+voyage
+excursion
+driving
+ski
+lift
+tram
+range
+ramble
