@@ -19,7 +19,7 @@ P(label | evidence) = P(evidence | label) * P(label) / P(evidence) where label i
 Therefore, in order to evaluate this binary classification, it follows that we must deduce P(evidence | label) and P(label) and P(evidence) from our dataset.
 This can be done quite readily via calculating the frequency of the appropriate occurences and hence their probabilities.
 
-For instance, P(evidence=[x1, x2, ..., xn]| label=[0]) = frequency(evidence=[x1, x2, ..., xn] and label=[0]) / frequency(label=[0]) where feature-vector [x1, x2, ..., xn] can be thought of as a character array/string (in fact, we import sci-kit's CountVectorizer to help with the task of converting text into vectors).
+For instance, P(evidence=[x1, x2, ..., xn] | label=[0]) = frequency(evidence=[x1, x2, ..., xn] and label=[0]) / frequency(label=[0]) where feature-vector [x1, x2, ..., xn] can be thought of as a character array/string (in fact, we import sci-kit's CountVectorizer to help with the task of converting text into vectors).
 
 Obviously, this is a mathematical simplification of the true logic behind sci-kit's MultinomialNB classifier.
 for more information, the following video helps explain the mathematical reasoning behind our classifier.
